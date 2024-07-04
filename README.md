@@ -32,8 +32,8 @@ To use these programs, follow these steps:
 3. **Compile and Run:**
    Use a C compiler (e.g., GCC) to compile the programs. For example:
    ```
-   gcc pyramid_pattern.c -o pyramid_pattern
-   ./pyramid_pattern
+   gcc program_No.c -o myexe
+   ./myexe
    ```
 
 4. **Explore Different Patterns:**
